@@ -7,7 +7,7 @@ I am a Junior C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I play games and read books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kerem-can-kürkçü-2683821b7/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kerem-can-kürkçü-2683821b7/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
