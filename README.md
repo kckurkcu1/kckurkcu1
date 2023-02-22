@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey there <iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="480" height="466" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p>
+
 ### :man_technologist: About Me :
 I am a Junior C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 - :telescope: I’m contributing to frontend and backend for building web applications.
@@ -19,11 +20,6 @@ I am a Junior C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySql" alt="Mysql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="Visualstudio" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSC" alt="Visualstudiocode" width="40" height="40"/>&nbsp;
-                                      
-          
-          
-          
-
 </div>
 
 
