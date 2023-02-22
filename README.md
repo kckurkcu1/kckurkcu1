@@ -4,7 +4,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am a Junior C# Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 - :telescope: I’m contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
