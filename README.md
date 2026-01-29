@@ -24,12 +24,3 @@ I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcM
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="Visualstudio" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSC" alt="Visualstudiocode" width="40" height="40"/>&nbsp;
 </div>
-
-
-
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kckurkcu1&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kckurkcu1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
